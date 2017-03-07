@@ -1,0 +1,8 @@
+/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/CMakeFiles/install/local.dir
+/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/CMakeFiles/install.dir
+/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/CMakeFiles/tangle_exec.dir
+/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/CMakeFiles/tangle.dir

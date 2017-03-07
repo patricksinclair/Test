@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tangle"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\Geant4\;CMake Files\..\..\Geant4\geant4.10.03-install\;CMake Files\..\..\Geant4\geant4.10.03-install\lib64\;CMake Files\..\..\Geant4\geant4.10.03-install\lib64\Geant4-10.3.0\;CMake Files\..\..\Geant4\geant4.10.03-install\lib64\Geant4-10.3.0\Modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tangle_exec">
+				<Option working_dir="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 tangle_exec"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tangle">
+				<Option output="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/tangle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DG4_STORE_TRAJECTORY"/>
+					<Add option="-DG4VERBOSE"/>
+					<Add option="-DG4UI_USE"/>
+					<Add option="-DG4VIS_USE"/>
+					<Add option="-DG4UI_USE_TCSH"/>
+					<Add option="-DG4INTY_USE_QT"/>
+					<Add option="-DG4UI_USE_QT"/>
+					<Add option="-DG4VIS_USE_OPENGLQT"/>
+					<Add option="-DG4INTY_USE_XT"/>
+					<Add option="-DG4UI_USE_XM"/>
+					<Add option="-DG4VIS_USE_OPENGLXM"/>
+					<Add option="-DG4VIS_USE_OPENGLX"/>
+					<Add option="-DG4VIS_USE_OPENGL"/>
+					<Add directory="/home/psinclair/Geant4/geant4.10.03-install/include/Geant4"/>
+					<Add directory="/usr/include/QtCore"/>
+					<Add directory="/usr/include/QtGui"/>
+					<Add directory="/usr/include/QtOpenGL"/>
+					<Add directory="/home/psinclair/CLionProjects/Tangle-stacking/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 tangle"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tangle/fast">
+				<Option output="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/tangle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DG4_STORE_TRAJECTORY"/>
+					<Add option="-DG4VERBOSE"/>
+					<Add option="-DG4UI_USE"/>
+					<Add option="-DG4VIS_USE"/>
+					<Add option="-DG4UI_USE_TCSH"/>
+					<Add option="-DG4INTY_USE_QT"/>
+					<Add option="-DG4UI_USE_QT"/>
+					<Add option="-DG4VIS_USE_OPENGLQT"/>
+					<Add option="-DG4INTY_USE_XT"/>
+					<Add option="-DG4UI_USE_XM"/>
+					<Add option="-DG4VIS_USE_OPENGLXM"/>
+					<Add option="-DG4VIS_USE_OPENGLX"/>
+					<Add option="-DG4VIS_USE_OPENGL"/>
+					<Add directory="/home/psinclair/Geant4/geant4.10.03-install/include/Geant4"/>
+					<Add directory="/usr/include/QtCore"/>
+					<Add directory="/usr/include/QtGui"/>
+					<Add directory="/usr/include/QtOpenGL"/>
+					<Add directory="/home/psinclair/CLionProjects/Tangle-stacking/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 tangle/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/psinclair/CLionProjects/Tangle-stacking/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/include/AnnihilationPhotonsSteppingAction.hh">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/include/OnePhotonSteppingAction.hh">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/include/TangleActionInitialization.hh">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/include/TangleDetectorConstruction.hh">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/include/TangleEventAction.hh">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/include/TanglePrimaryGeneratorAction.hh">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/include/TangleRunAction.hh">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/include/TangleStackingAction.hh">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/include/TangleVSteppingAction.hh">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/src/AnnihilationPhotonsSteppingAction.cc">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/src/OnePhotonSteppingAction.cc">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/src/TangleActionInitialization.cc">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/src/TangleDetectorContruction.cc">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/src/TangleEventAction.cc">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/src/TanglePrimaryGeneratorAction.cc">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/src/TangleRunAction.cc">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/src/TangleStackingAction.cc">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/tangle.cc">
+			<Option target="tangle"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/vis.mac">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/pretty.mac">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/gps.mac">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/../../Geant4/geant4.10.03-install/lib64/Geant4-10.3.0/Geant4ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Geant4\geant4.10.03-install\lib64\Geant4-10.3.0\"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/../../Geant4/geant4.10.03-install/lib64/Geant4-10.3.0/Geant4Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\Geant4\geant4.10.03-install\lib64\Geant4-10.3.0\"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/../../Geant4/geant4.10.03-install/lib64/Geant4-10.3.0/Geant4LibraryDepends.cmake">
+			<Option virtualFolder="CMake Files\..\..\Geant4\geant4.10.03-install\lib64\Geant4-10.3.0\"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/../../Geant4/geant4.10.03-install/lib64/Geant4-10.3.0/Geant4LibraryDepends-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\Geant4\geant4.10.03-install\lib64\Geant4-10.3.0\"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/../../Geant4/geant4.10.03-install/lib64/Geant4-10.3.0/UseGeant4.cmake">
+			<Option virtualFolder="CMake Files\..\..\Geant4\geant4.10.03-install\lib64\Geant4-10.3.0\"/>
+		</Unit>
+		<Unit filename="/home/psinclair/CLionProjects/Tangle-stacking/../../Geant4/geant4.10.03-install/lib64/Geant4-10.3.0/Modules/IntelCompileFeatures.cmake">
+			<Option virtualFolder="CMake Files\..\..\Geant4\geant4.10.03-install\lib64\Geant4-10.3.0\Modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
